@@ -1,42 +1,16 @@
 [
     {
-      "position": "Devops Werkstudent",
-      "company": "ETAS Gmbh",
-      "time": "April 2024 - Present",
-      "location": "Stuttgart, Germany",
-      "description": "Working as Devops Enginner",
+      "position": "Data Analyst",
+      "company": "JBM Groups",
+      "time": "Sep 2021 - Sep 2022",
+      "location": "Chennai, India",
+      "description": "Data Analyst",
       "responsibilities": [
-        "Creating and maintaining CI/CD pipelines using Github Actions, automating, packaging, and delivering software releases to the customers.",
-         "Automating Sphinx Documentation through CI/CD pipelines and writing Python scripts to automatically extract version data from conf file.",
-         "Creating VM's on Azure and orchestrating using Terraform and setting up Grafana for the AKS runners.",
-         "Automated the creation of the jekyll website and automated yaml data file generation for the website using github cli and action.",
-         "Wrote automated tests using pytest and beautifulsoup, covering 90% of overall tests for the pipeline and storing the snapshot of the logs in Jfrog artifactory.",
-         "Using Robot framework for writing automated test for the user tutorial and automating the entire process through pipelines.",
-         "Working in an Agile environment(SCRUM), creating stories and actively reviewing code."
-      ]
-    },
-    {
-      "position": "Software Developer",
-      "company": " Robert Bosch Gmbh",
-      "time": "October 2023 - March 2024",
-      "location": "Stuttgart, Germany",
-      "description": "Internship",
-      "responsibilities": [
-      "Revamped the old application and integrated into new one in Angular",
-      "Implemented all the features maintaining facade architecture and thus optimizing API calls by 90% through state management.",
-      "Implemented new functionality using RxjS, establishing backend connections through NodeJS and tuned the CRUD operations at backend",
-      "Wrote unit test cases for all the components increasing test coverage up to 80% and collaborated using version control such as git."
-      ]
-    },
-    {
-      "position": "Fullstack Developer werkstudent",
-      "company": " Emano Gmbh",
-      "time": "May 2023 - September 2023",
-      "location": "Munich, Germany",
-      "description": "Worked as Fullstack Developer",
-      "responsibilities": [
-        "Worked on enterprise project as a frontend developer using Angular, Bootstrap, Angular CDK, Material.",
-        "Developed an Azure DevOps extension for dependency tracking for the company, and deployed the same on Azure Devops."
+        "Built and maintained Power BI and Excel dashboards to support business and project execution tracking across finance, sales, and operations.",
+        "Designed ETL-style data preparation workflows, ensuring consistent KPIs and reliable reporting datasets.",
+        "Automated recurring reporting and data transformation using Excel VBA and Python, reducing manual effort and improving process efficiency.",
+        "Collaborated with stakeholders to translate business requirements into actionable reporting tools for decision-making."
       ]
     }
+    
   ]

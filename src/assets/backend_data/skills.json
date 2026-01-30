@@ -1,19 +1,22 @@
 [
-    { "name": "HTML/CSS",        "category": "frontend" },
-    { "name": "JavaScript",      "category": "frontend" },
-    { "name": "TypeScript",      "category": "frontend" },
-    { "name": "Angular",         "category": "frontend" },
-    { "name": "React",           "category": "frontend" },
-    { "name": "Tailwind CSS",    "category": "frontend" },
+    { "name": "Power BI",        "category": "Business Intelligence & Reporting" },
+    { "name": "KPI Dashboards",      "category": "Business Intelligence & Reporting" },
+    { "name": "DAX",      "category": "Business Intelligence & Reporting" },
+    { "name": "Tableau",         "category": "Business Intelligence & Reporting" },
   
-    { "name": "Node.js",         "category": "backend" },
-    { "name": "Express",         "category": "backend" },
-    { "name": "NestJS",          "category": "backend" },
-    { "name": "PostgreSQL",      "category": "backend" },
-    { "name": "MongoDB",         "category": "backend" },
+    { "name": "Alteryx",         "category": "Data & ETL" },
+    { "name": "Data Extraction",         "category": "Data & ETL" },
+    { "name": "Cleansing",          "category": "Data & ETL" },
+    { "name": "Transformation",      "category": "Data & ETL" },
+    { "name": "Data Validation",         "category": "Data & ETL" },
   
-    { "name": "Docker",          "category": "devops" },
-    { "name": "Kubernetes",      "category": "devops" },
-    { "name": "AWS",             "category": "devops" },
-    { "name": "GitHub Actions",  "category": "devops" }
+    { "name": "Advanced Excel (PivotTables, PowerQuery, VBA)",          "category": "Office 365" },
+    { "name": "PowerPoint",      "category": "Office 365" },
+
+    { "name": "Advanced Excel (PivotTables, PowerQuery, VBA)",          "category": "Office 365" },
+    { "name": "PowerPoint",      "category": "Office 365" },
+    { "name": "SQL (basic queries)",          "category": "Data & Programming" },
+    { "name": "Python (pandas, numpy, Scikit)",      "category": "Data & Programming" },
+    { "name": "OpenAi",      "category": "AI" }
+
   ]

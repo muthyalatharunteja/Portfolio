@@ -1,24 +1,19 @@
 [
  
     {
-      "name": "Digital Factory Planning",
-      "description": "A Factory planning tool built with a teammante for Fraunhofer IEM internal Use",
-      "tech": ["React", "NestJS", "MySql", "Redis"],
-      "image": "assets/images/digital_factory.png",
-      "github": "https://github.com/prathmesh3235/digitalfactorytoolMT"
+      "name": "Customer Churn Prediction",
+      "description": "End-to-end ML project simulating a production workflow. Conducted EDA to analyze churn behavior, engineered and scaled features, trained and tuned multiple models using GridSearchCV, selected the best model, and deployed it via Streamlit for real-time predictions.",
+      "tech": ["Python","Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Streamlit","Joblib", "Machine Learning & Model Deployment"],
+      "image": "assets/images/churn.png",
+      
+      "github": "https://github.com/muthyalatharunteja/Customer_Churn_Prediction_MachineLearning"
     },
     {
-      "name": "Doctors Prescription",
-      "description": "A tool where doctor can prescribe medice and by clicking the photo the prescribed medicine gets added to the patients system.",
-      "tech": ["Flask", "Angular", "Firebase", "OpenCv"],
-      "image": "assets/images/doctors_prescription.png",
-      "github": "https://github.com/Sahilnair71/angular-doctors-prescription"
-    },
-    {
-        "name": "Ecommerce Website",
-        "description": "A fullstack ecommerce application for a local automotive dealer.",
-        "tech": [ "Angular", "Firebase", "NodeJs"],
-        "image": "assets/images/green_tiger.png",
-        "github": "https://github.com/Sahilnair71/greetiger"
-      }
+      "name": "HR_Analytics",
+      "description": "A tool where doctor can prescribe medice and by clicking the photo the prescribed medicine gets added to the patients system.This project focuses on developing a comprehensive HR Analytics Dashboard using Power BI to analyze employee attrition across different departments. The primary goal is to identify key trends, patterns, and factors contributing to attrition, helping HR teams and management make informed, data-driven decisions.",
+      "tech": ["Power BI","DAX","Power Query","Data Visualization","HR Analytics & Business Analytics"],
+      "image": "assets/images/HR_dashboard.png",
+      
+      "github": "https://github.com/muthyalatharunteja/HR_Analytics_PowerBI_project"
+    }
   ]
