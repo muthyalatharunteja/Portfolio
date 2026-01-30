@@ -1,0 +1,16 @@
+[
+    {
+      "position": "Data Analyst",
+      "company": "JBM Groups",
+      "time": "Sep 2021 - Sep 2022",
+      "location": "Chennai, India",
+      "description": "Data Analyst",
+      "responsibilities": [
+        "Built and maintained Power BI and Excel dashboards to support business and project execution tracking across finance, sales, and operations.",
+        "Designed ETL-style data preparation workflows, ensuring consistent KPIs and reliable reporting datasets.",
+        "Automated recurring reporting and data transformation using Excel VBA and Python, reducing manual effort and improving process efficiency.",
+        "Collaborated with stakeholders to translate business requirements into actionable reporting tools for decision-making."
+      ]
+    }
+    
+  ]

@@ -1,0 +1,22 @@
+[
+    { "name": "Power BI",        "category": "Business Intelligence & Reporting" },
+    { "name": "KPI Dashboards",      "category": "Business Intelligence & Reporting" },
+    { "name": "DAX",      "category": "Business Intelligence & Reporting" },
+    { "name": "Tableau",         "category": "Business Intelligence & Reporting" },
+  
+    { "name": "Alteryx",         "category": "Data & ETL" },
+    { "name": "Data Extraction",         "category": "Data & ETL" },
+    { "name": "Cleansing",          "category": "Data & ETL" },
+    { "name": "Transformation",      "category": "Data & ETL" },
+    { "name": "Data Validation",         "category": "Data & ETL" },
+  
+    { "name": "Advanced Excel (PivotTables, PowerQuery, VBA)",          "category": "Office 365" },
+    { "name": "PowerPoint",      "category": "Office 365" },
+
+    { "name": "Advanced Excel (PivotTables, PowerQuery, VBA)",          "category": "Office 365" },
+    { "name": "PowerPoint",      "category": "Office 365" },
+    { "name": "SQL (basic queries)",          "category": "Data & Programming" },
+    { "name": "Python (pandas, numpy, Scikit)",      "category": "Data & Programming" },
+    { "name": "OpenAi",      "category": "AI" }
+
+  ]

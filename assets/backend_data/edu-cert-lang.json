@@ -1,0 +1,16 @@
+{
+    "education": [
+      { "degree": "BTECH Mechanical Engineering", "school": "Vardhaman College of Engineering (VCEH)", "year": "2017– 2021", "location": "Hyderabad, IN" },
+      { "degree": "Master in Mathematical Modelling simulation and Optimization", "school": "Universität Koblenz", "year": "2022 – present", "location": "Koblenz, DE" }
+    ],
+    "certificates": [
+      { "name": "PowerBI-Business Intelligence from Beginner to Advance", "issuer": "Udemy", "year": "2025" },
+      { "name": "Microsoft Excel 2013 Certification from Beginner to Advance", "issuer": "Udemy", "year": "2023" },
+      { "name": "MySQL", "issuer": "Udemy", "year": "2022" }
+    ],
+    "languages": [
+      { "name": "English", "level": "Fluent(C1)" },
+      { "name": "Telugu", "level": "Native" },
+      {"name": "Deutsch", "level": "Intermediate" }
+    ]
+  }
