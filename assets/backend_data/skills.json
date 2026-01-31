@@ -1,22 +1,19 @@
 [
-    { "name": "Power BI",        "category": "Business Intelligence & Reporting" },
-    { "name": "KPI Dashboards",      "category": "Business Intelligence & Reporting" },
-    { "name": "DAX",      "category": "Business Intelligence & Reporting" },
-    { "name": "Tableau",         "category": "Business Intelligence & Reporting" },
+    { "name": "Power BI",        "category": "Business Intelligence" },
+    { "name": "KPI Dashboards",      "category": "Business Intelligence" },
+    { "name": "DAX",      "category": "Business Intelligence" },
+    { "name": "Tableau",         "category": "Business Intelligence" },
   
+    { "name": "SQL",      "category": "Data & ETL" },
     { "name": "Alteryx",         "category": "Data & ETL" },
-    { "name": "Data Extraction",         "category": "Data & ETL" },
-    { "name": "Cleansing",          "category": "Data & ETL" },
-    { "name": "Transformation",      "category": "Data & ETL" },
-    { "name": "Data Validation",         "category": "Data & ETL" },
-  
-    { "name": "Advanced Excel (PivotTables, PowerQuery, VBA)",          "category": "Office 365" },
-    { "name": "PowerPoint",      "category": "Office 365" },
+    { "name": "ETL Pipelines",         "category": "Data & ETL" },
+    { "name": "Data Modeling",          "category": "Data & ETL" },
 
-    { "name": "Advanced Excel (PivotTables, PowerQuery, VBA)",          "category": "Office 365" },
-    { "name": "PowerPoint",      "category": "Office 365" },
-    { "name": "SQL (basic queries)",          "category": "Data & Programming" },
-    { "name": "Python (pandas, numpy, Scikit)",      "category": "Data & Programming" },
-    { "name": "OpenAi",      "category": "AI" }
+    { "name": "Python (Pandas, Numpy, Scikit-Learn)",      "category": "Programming" },
+
+    { "name": "OpenAi",      "category": "AI" },
+
+    { "name": "Excel (Advanced, VBA, Power Query)",      "category": "Automation" },
+    { "name": "Process Automation",      "category": "Automation" }
 
   ]
