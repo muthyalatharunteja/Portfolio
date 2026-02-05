@@ -6,10 +6,13 @@
       "location": "Chennai, India",
       "description": "Data Analyst",
       "responsibilities": [
-        "Built and maintained Power BI and Excel dashboards to support business and project execution tracking across finance, sales, and operations.",
-        "Designed ETL-style data preparation workflows, ensuring consistent KPIs and reliable reporting datasets.",
-        "Automated recurring reporting and data transformation using Excel VBA and Python, reducing manual effort and improving process efficiency.",
-        "Collaborated with stakeholders to translate business requirements into actionable reporting tools for decision-making."
+        "Conducted ad-hoc data analysis using Python, SQL, and Excel to support operational and financial decision-making",
+        "Developed Power BI dashboards and automated KPI reports, enabling real-time performance monitoring for stakeholders",
+        "Built and maintained ETL pipelines for data extraction, cleansing, transformation, and validation from multiple sources",
+        "Designed structured reporting datasets and warehouse-style data models to ensure reliable and scalable analytics",
+        "Wrote SQL queries (joins, aggregations, transformations) and automated recurring reports using Python/VBA, improving efficiency and accuracy",
+        "Collaborated with cross-functional teams to gather requirements, ensure data quality, and deliver actionable insights through clear visualizations"
+
       ]
     }
     
