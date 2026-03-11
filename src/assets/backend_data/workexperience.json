@@ -6,13 +6,12 @@
       "location": "Haryana, India",
       "description": "Data Analyst",
       "responsibilities": [
-        "Conducted ad-hoc data analysis using Python, SQL, and Excel to support operational and financial decision-making",
-        "Developed Power BI dashboards and automated KPI reports, enabling real-time performance monitoring for stakeholders",
-        "Built and maintained ETL pipelines for data extraction, cleansing, transformation, and validation from multiple sources",
+        "Extracted, cleaned, and analyzed  large operational datasets (90K+ records) using SQL, Python (Pandas, Numpy), and Excel to support KPI tracking and business reporting.",
+        "Developed interactive Power BI dashboards using DAX to monitor production, operations, and inventory performance metrics.",
+        "Created automated reporting workflows using Python, Excel formulas, pivot tables, and VBA, reducing manual reporting effort by approximately 18%",
         "Designed structured reporting datasets and warehouse-style data models to ensure reliable and scalable analytics",
-        "Wrote SQL queries (joins, aggregations, transformations) and automated recurring reports using Python/VBA, improving efficiency and accuracy",
-        "Collaborated with cross-functional teams to gather requirements, ensure data quality, and deliver actionable insights through clear visualizations"
-
+        "Ensured data quality by identifying missing values, duplicates, and inconsistencies to ensure accurate KPI reporting.",
+        "Collaborated with cross-functional teams and tracked analytics tasks using Jira to deliver reports and dashboards on time."
       ]
     }
     
