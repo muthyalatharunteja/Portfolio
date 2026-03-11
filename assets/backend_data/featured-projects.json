@@ -10,7 +10,7 @@
     },
     {
       "name": "HR_Analytics",
-      "description": "A tool where doctor can prescribe medice and by clicking the photo the prescribed medicine gets added to the patients system.This project focuses on developing a comprehensive HR Analytics Dashboard using Power BI to analyze employee attrition across different departments. The primary goal is to identify key trends, patterns, and factors contributing to attrition, helping HR teams and management make informed, data-driven decisions.",
+      "description": "This project focuses on developing a comprehensive HR Analytics Dashboard using Power BI to analyze employee attrition across different departments. The primary goal is to identify key trends, patterns, and factors contributing to attrition, helping HR teams and management make informed, data-driven decisions.",
       "tech": ["Power BI","DAX","Power Query","Data Visualization","HR Analytics & Business Analytics"],
       "image": "assets/images/HR_dashboard.png",
       
