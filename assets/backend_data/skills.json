@@ -1,17 +1,24 @@
 [
+    { "name": "SQL",      "category": "Data Analytics" },
+    { "name": "PostgreSQL",      "category": "Data Analytics" },
+    { "name": "Exploratory Data Analysis (EDA)",      "category": "Data Analytics" },
+    { "name": "Data Cleaning & Transformation",      "category": "Data Analytics" },
+    { "name": "Data Visualization & Storytelling",      "category": "Data Analytics" },
+    { "name": "Statistical Analysis (Distributions)",      "category": "Data Analytics" },
+    { "name": "Alteryx",         "category": "Data Analytics" },
+    { "name": "ETL Pipelines",         "category": "Data Analytics" },
+    { "name": "Data Modeling",          "category": "Data Analytics" },
+
+
     { "name": "Power BI",        "category": "Business Intelligence" },
-    { "name": "KPI Dashboards",      "category": "Business Intelligence" },
+    { "name": "KPI Dashboards & Business Metrics Analysis",      "category": "Business Intelligence" },
     { "name": "DAX",      "category": "Business Intelligence" },
     { "name": "Tableau",         "category": "Business Intelligence" },
-  
-    { "name": "SQL",      "category": "Data & ETL" },
-    { "name": "Alteryx",         "category": "Data & ETL" },
-    { "name": "ETL Pipelines",         "category": "Data & ETL" },
-    { "name": "Data Modeling",          "category": "Data & ETL" },
 
-    { "name": "Python (Pandas, Numpy, Scikit-Learn)",      "category": "Programming" },
+    { "name": "Python (Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn)",      "category": "Programming" },
 
     { "name": "OpenAi",      "category": "AI" },
+    { "name": "ClaudeAi",      "category": "AI" },
 
     { "name": "Excel (Advanced, VBA, Power Query)",      "category": "Automation" },
     { "name": "Process Automation",      "category": "Automation" }
