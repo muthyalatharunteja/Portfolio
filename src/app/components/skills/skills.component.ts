@@ -5,7 +5,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { CommonModule,isPlatformBrowser } from '@angular/common'; 
 
 // Define the types
-type SkillCategory = 'Business Intelligence' | 'Data & ETL' | 'Programming' | 'AI'| 'Automation';
+type SkillCategory =  'Data Analytics' | 'Business Intelligence' | 'Programming' | 'AI'| 'Automation';
 interface Skill { 
     category: SkillCategory; 
     name: string; 
@@ -45,8 +45,8 @@ export class SkillsComponent implements OnInit {
   // Filter keys for generating the buttons
   readonly filters = [
     { key: 'all' as FilterKey, label: 'All Skills' },
+    { key: 'Data Analytics' as FilterKey, label: 'Data Analytics' },
     { key: 'Business Intelligence' as FilterKey, label: 'Business Intelligence' },
-    { key: 'Data & ETL' as FilterKey, label: 'Data & ETL' },
     { key: 'Programming' as FilterKey, label: 'Programming' },
     { key: 'AI' as FilterKey, label: 'AI' },
     { key: 'Automation' as FilterKey, label: 'Automation' },
@@ -78,8 +78,8 @@ export class SkillsComponent implements OnInit {
   
   // Helper function for the skill card badge
   labelFor(cat: SkillCategory): string {
+    if (cat === 'Data Analytics') return 'Data Analytics';
     if (cat === 'Business Intelligence') return 'Business Intelligence';
-    if (cat === 'Data & ETL') return 'Data & ETL';
     if (cat === 'Programming') return 'Programming';
     if(cat === 'AI')  return 'AI';
     if(cat === 'Automation')  return 'Automation'

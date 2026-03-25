@@ -8,6 +8,16 @@
       
       "github": "https://github.com/muthyalatharunteja/Customer_Churn_Prediction_MachineLearning"
     },
+
+    {
+     "name": "EU_Ownership_Experience_Warranty_KPI_Dashboard",
+     "description": "Built an end-to-end Warranty Reporting Pipeline simulating the EU Ownership Experience reporting system. Loaded and queried 50,000 vehicle records using MySQL, cleaned and prepared data using Python Pandas, built 6 visualizations using Matplotlib and Seaborn, and developed an interactive KPI dashboard in Tableau covering Warranty, Service Marketing and BI teams. Key finding: 81% of vehicles require maintenance with a 20 point gap between Good and Poor maintenance history.",
+     "tech": ["MySQL", "Python", "Pandas", "Matplotlib", "Seaborn", "Tableau", "Data Cleaning", "KPI Reporting", "Data Visualization", "Automotive Analytics"],
+     "image": "assets/images/Dashboard.png",
+
+      "github": "https://github.com/muthyalatharunteja/EU_Ownership_Experience_Warranty_KPI_Dashboard"
+    },
+
     {
       "name": "HR_Analytics",
       "description": "This project focuses on developing a comprehensive HR Analytics Dashboard using Power BI to analyze employee attrition across different departments. The primary goal is to identify key trends, patterns, and factors contributing to attrition, helping HR teams and management make informed, data-driven decisions.",

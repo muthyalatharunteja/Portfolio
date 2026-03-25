@@ -31,6 +31,6 @@ export const HIGHLIGHTS: Highlight[] = [
 
 export const STATS: Stat[] = [
   { value: '1',  label: 'Years Experience',   colorClass: 'text-sky-300' },
-  { value: '3+', label: 'Projects Completed', colorClass: 'text-fuchsia-300' },
+  { value: '7+', label: 'Projects Completed', colorClass: 'text-fuchsia-300' },
   { value: '10+', label: 'Technologies',       colorClass: 'text-emerald-300' },
 ];
